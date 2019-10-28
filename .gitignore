@@ -1,0 +1,9 @@
+# Mac Stuff
+.DS_Store
+
+# Python Stuff
+.python-version
+
+# Executables
+week2/mergesort
+week3/quicksort
