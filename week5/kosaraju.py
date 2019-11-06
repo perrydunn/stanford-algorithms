@@ -18,8 +18,6 @@ def first_pass(graph_rev, n):
         if not explored[i]:
             dfs(graph_rev, i)
 
-    print(finishing_times)
-
     return finishing_times
 
 
