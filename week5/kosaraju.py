@@ -46,9 +46,6 @@ def second_pass(graph, n, finishing_times):
 
 
 if __name__ == "__main__":
-    import sys
-    sys.setrecursionlimit(65536)
-
     graph = {}
     graph_rev = {}
     n = 0
