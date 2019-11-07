@@ -3,6 +3,7 @@
 
 # Python Stuff
 .python-version
+__pycache__
 
 # Executables
 week2/mergesort
